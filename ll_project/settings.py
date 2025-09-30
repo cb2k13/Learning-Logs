@@ -155,3 +155,6 @@ if config.is_valid_platform():
 }
         
         
+
+
+from .settings_psh import *
